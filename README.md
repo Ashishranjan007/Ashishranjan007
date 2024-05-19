@@ -23,10 +23,15 @@ Here are some ideas to get you started:
 
 
 - 🔭 I work on DevOps, Microservices, containers, and everything around it.
+
 - 🌱 I’m looking to collaborate on **DevOps and Cloud-native Projects**
+
 - 👯 I’m currently learning **Terraform, Jenkins, Ansible**
+
 - 🤝 I’m looking to collaborate on **DevOps, AWS Cloud, Open Source projects**
+
 - 📫 How to reach me **ashishranjan5323@gmail.com**
+
 - ⚡ Fun fact **Sometimes I'm a night owl & sometimes an early bird!**
 
 
@@ -39,5 +44,4 @@ Here are some ideas to get you started:
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
-- ⚡ Fun fact **I create YouTube videos**
+- 📫 How to reach me **[ashishranjan5323@gmail.com](mailto:ashishranjan3523@gmail.com)**
