@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
+- 🔭 I work on DevOps, Microservices, containers, and everything around it.
+- 🌱 I’m looking to collaborate on **Cloud-native Projects**
+- 📫 How to reach me **ashishranjan5323@gmail.com**
+- ⚡ Fun fact **Sometimes I'm a night owl & sometimes an early bird!**
 
 
 <h3 align="left">Languages and Tools:</h3>
