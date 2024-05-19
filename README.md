@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I work on DevOps, Microservices, containers, and everything around it.
-- 🌱 I’m looking to collaborate on **Cloud-native Projects**
+- 🌱 I’m looking to collaborate on **DevOps and Cloud-native Projects**
+- 👯 I’m currently learning **Terraform, Jenkins, Ansible**
+- 🤝 I’m looking to collaborate on **DevOps, AWS Cloud, Open Source projects**
 - 📫 How to reach me **ashishranjan5323@gmail.com**
 - ⚡ Fun fact **Sometimes I'm a night owl & sometimes an early bird!**
 
