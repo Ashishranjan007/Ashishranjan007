@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <!-- GIF -->
 <img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
+<!-- About Me -->
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+
+
 
 
 - 🔭 I work on DevOps, Microservices, containers, and everything around it.
