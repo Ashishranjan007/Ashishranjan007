@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Ashish Ranjan </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ashish-ranjan-4a3799266/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for last 6 months now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ashish-ranjan-4a3799266/" target="_blank" rel="noreferrer">Ashish</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for last 6 months now. Feel free to reach out for any Freelance Projects.</font></h3>
 <!--
 **Ashishranjan007/Ashishranjan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
