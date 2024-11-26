@@ -22,32 +22,41 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>     
   </a> 
+    
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>     
   </a>
+  
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> 
   </a> 
+  
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>    
   </a>
+  
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/>   
   </a>
+  
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
   </a>
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
   </a> 
+  
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
   </a> 
+  
 </p>
 
 <!-- Projects Section -->
@@ -57,13 +66,13 @@
 - Analyzed customer behavior using **Python (Pandas, Matplotlib)** and created interactive dashboards in **Power BI**.
 - Built a **Random Forest Classifier** to predict churn, achieving 85% accuracy.
 
-#### 📌 [Sales Performance Dashboard](#)
+#### 📌 [Sales Performance Dashboard](https://github.com/Ashishranjan007/SQL_Music_Analysis)
 - Designed a **Power BI dashboard** to visualize sales trends, customer segmentation, and profit analysis.
 - Automated data cleaning using **SQL queries** and **Python scripts**.
 
-#### 📌 [Loan Default Prediction](#)
+<!-- #### 📌 [Loan Default Prediction](#)
 - Predicted loan defaults using **Logistic Regression** and **XGBoost**.
-- Cleaned and processed data with **Pandas**, visualized trends using **Matplotlib**.
+- Cleaned and processed data with **Pandas**, visualized trends using **Matplotlib**. -->
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
